@@ -9,7 +9,9 @@ random password generator
 ex)
 
 rpg.sh 패스워드발급수량
+
 MYMACBOOK@BRUCELEE-M-114950 Documents % ./rpg.sh 10
+
 n!$Jw1nD]
 Zfry2U#F)
 BLpS8z[H[
@@ -20,4 +22,5 @@ WXh7iFXX^
 *^c8^3rb$
 ijam9f(d$
 UPOGN0Af#
+
 MYMACBOOK@BRUCELEE-M-114950 Documents %
