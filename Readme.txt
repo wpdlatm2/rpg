@@ -6,7 +6,7 @@ ex)
 
 rpg.sh 패스워드발급수량
 
-kakao_bank@BRUCELEE-M-114950 Documents % ./rpg.sh 10
+kkk@BRUCELEE-M-114950 Documents % ./rpg.sh 10
 n!$Jw1nD]
 Zfry2U#F)
 BLpS8z[H[
@@ -17,4 +17,4 @@ WXh7iFXX^
 *^c8^3rb$
 ijam9f(d$
 UPOGN0Af#
-kakao_bank@BRUCELEE-M-114950 Documents %
+kkk@BRUCELEE-M-114950 Documents %
